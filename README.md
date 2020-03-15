@@ -143,92 +143,197 @@ git request-pull https://github.com/tommywenjiezhang/is219_group_project.git mas
 
 
 
-**Task list:**
+<h1>Task list definations: </h1> 
+
+<h2> Create fuctions and tests for all them below </h2>
+<ol>
+<li>
+Simple random sampling --> is the basic sampling technique where one selects a group of subjects for study from a larger group of population.    
+ <ul>
+    <li> Fromula/ test provided in the tests 
+    </ul>
+</li>
+<li>Systematic sampling --> statistical method involves selection of elements from ordered sampling frame. 
+ <ul>
+    <li> Fromula/ test provided in the tests 
+    </ul>
+</li>
+
+<li>Confidence Interval For a Sample --> interval estimate combined with a probability statement.
+ <ul>
+    <li> Fromula/ test provided in the tests 
+    </ul>
+<li> Margin of Error--> a small amount that is allowed for in case of miscalculation
+ <ul>
+    <li> Fromula/ test provided in the tests 
+    </ul>
+<li>Confidence Interval --> type of estimate computed from the statistics from data given
+ <ul>
+    <li> Fromula/ test provided in the tests 
+    </ul>
+<li> Cochran’s Sample Size -->  an ideal sample size given a desired level of precision, desired confidence level, and the estimated proportion of the attribute in the data
+<li>Mean --> mathematical expectation or average
+<ul>
+<li> formula/example - data set  { 1, 2, 3, 4, 5, 6} =  (1+2+3+4+5+6)/6 = 3.5 
+</ul>
+<li> Median --> denoting or relating to a value or quantity lying at the midpoint of a frequency distribution of the given data
+  <ul>
+  <li> formula/example - data set  { 1, 2, 3, 4, 5, 6} =  (3+4)/2 = 3.5
+  </ul>
+<li> Mode --> most frequently occurred value
+<ul>
+  <li> formula - data set  { 1, 2, 3, 4, 5, 6, 6} =  6
+  </ul>
+<li> Variance -->the expectation of the squared deviation of a random variable from its mean. 
+  <ul>
+    <li> Fromula/ test provided in the tests 
+    </ul>
+<li> Standard Deviation --> measure of the amount of variation or dispersion of a set of values.
+ <ul>
+    <li>Fromula/ test provided in the tests 
+    </ul>
+<li> Quartiles -->  type of quantile which divides the number of data points into four more or less equal parts. 
+<ul>
+    <li> { 1, 2, 3, 4, 5, 6, 6}  = q1 = 2, q2 = 4, q3 = 6   
+    </ul>
+<li> Skewness --> measure of the asymmetry of the probability distribution of a real-valued random variable about its mean
+ <ul>
+    <li> Fromula/ test provided in the tests 
+    </ul>
+
+<li> Sample Correlation --> measure of the strength of the linear relationship between the x and the y values of a data pair.
+ <ul>
+    <li> Fromula/ test provided in the tests 
+    </ul>
+<li> Population Correlation -->  measure the strength of association between two variables. 
+ <ul>
+    <li> Fromula/ test provided in the tests 
+    </ul>
+<li> Z-Score - numerical measurement  of a value's relationship to the mean of a group of values
+ <ul>
+    <li>Fromula/ test provided in the tests 
+    </ul>
+<li>Mean Deviation / Mean Absolute Deviation - the average of the absolute deviations from a central point. 
+ <ul>
+    <li>Fromula/ test provided in the tests 
+    </ul>
+<li> Random number without a seed between a range of two numbers
+ <ul>
+    <li> Fromula/ test provided in the tests 
+    </ul>
+<li> Random number with a seed between a range of two numbers
+ <ul>
+    <li> Fromula/ test provided in the tests 
+    </ul>
+</li>
+
+
+
+
+</ol>
+
+
+
+
+**Table for tasks performed**
 <table style="width:100%">
   <tr>
     <th>Todo</th>
-    <th>In progress</th>
-    <th>Review</th>
-    <th>Done</th> 
+    <th>progressed by </th>
+    <th>Reviewed By</th>
+    <th>Done by<th>  
+    <th>completion</th>
   </tr>
   <tr>
     <td>Create Descriptive Statistics Functions</td>
-   <td> prgressed </td>
-       <td>reviewed</td>
-       <td>done</td>
+   <td> Wenjie Zhang  </td>
+       <td>Anjlali Kumari </td>
+       <td>Wenjie and Anjali </td>
+       <td>completed</td>
   </tr>
   <tr>
     <td> Create Simple random sampling </td>
-    <td> prgressed </td>
-    <td>reviewed</td>
-    <td>done</td>
+    <td>Wenjie Zhang </td>
+    <td>Anjali </td>
+    <td>Wenjie and Anjali </td>
+    <td>completed</d>
   </tr>
    <tr>
-      <td>Systematic sampling  </td>
-     <td> prgressed </td>
-         <td>reviewed</td>
-         <td>done</td>
+      <td> ceate Systematic sampling  </td>
+     <td> Wenjie and anjali </td>
+         <td>Both </td>
+         <td>Both</td>
+         <td>completed</td>
     </tr>
     <tr>
-          <td>Confidence Interval For a Sample</td>
-          <td> prgressed </td>
-              <td>reviewed</td>
-              <td>done</td>
+          <td>create Confidence Interval For a Sample function</td>
+          <td> wenjie </td>
+              <td>Anjali</td>
+              <td>Wenjie and Anjali</td>
+               <td>completed</td>
         </tr>
         <tr>
-                  <td>Margin of Error
+                  <td> Create Margin of Error function 
  </td>
-                  <td> prgressed </td>
-                      <td>reviewed</td>
-                      <td>done</td>
+                  <td> Wenjie </td>
+                      <td>Anjlai</td>
+                      <td>both</td>
+                       <td>completed</td>
                 </tr>
                 <tr>
-                                  <td>How to Find a Confidence Interval </td>
-                                  <td> prgressed </td>
-                                      <td>reviewed</td>
-                                      <td>done</td>
+                                  <td> Confidence Interval function </td>
+                                  <td> Wenjie</td>
+                                      <td>Anjali</td>
+                                      <td>Both</td>
+                                       <td>completed</td>
                                 </tr>
                 <tr>
-                          <td>Cochran’s Sample Size Formula </td>
-                          <td> prgressed </td>
-                              <td>reviewed</td>
-                              <td>done</td>
+                          <td> Write Cochran’s Sample Size Formula </td>
+                          <td> Wenjie</td>
+                              <td>Anjali </td>
+                              <td>Both</td>
+                               <td>completed</td>
                         </tr>
                <tr>
                                          <td>How to Find a Sample Size Given a Confidence Interval and Width (unknown population standard deviation)
  </td>
-                                         <td> prgressed </td>
-                                             <td>reviewed</td>
-                                             <td>done</td>
+                                         <td> wenjie  </td>
+                                             <td>Anjali</td>
+                                             <td>Both</td>
+                                              <td>completed</td>
                                        </tr>
 <tr>
       <td>How to Find a Sample Size Given a Confidence Interval and Width (known population standard deviation)
  </td>
-     <td> prgressed </td>
-         <td>reviewed</td>
-         <td>done</td>
+     <td> Wenjie </td>
+         <td>Anjali</td>
+         <td>Both</td>
+          <td>completed</td>
     </tr>
     
  <tr>
  <tr>
        <td> Random Generator functions </td>
-      <td> prgressed </td>
-          <td>reviewed</td>
-          <td>done</td>
+      <td>  Both </td>
+          <td>Both /td>
+          <td>Both</td>
+           <td>completed</td>
      </tr>
      
   <tr> 
   <tr>
          <td> Create test suites </td>
-        <td> prgressed </td>
-            <td>reviewed</td>
-            <td>done</td>
+        <td> Wenjie </td>
+            <td>Both </td>
+            <td>Both</td>
+             <td>completed</td>
        </tr>
         <tr>
                 <td> Create README.MD  </td>
-               <td> prgressed </td>
-                   <td>reviewed</td>
-                   <td>done</td>
+               <td> Anjali</td>
+                   <td>Wenjie</td>
+                   <td>Both</td>
+                    <td>completed</td>
               </tr>
        
     
@@ -236,5 +341,4 @@ git request-pull https://github.com/tommywenjiezhang/is219_group_project.git mas
 </table>
 
                   
-
 
